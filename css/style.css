@@ -8,3 +8,14 @@
   margin: 0;
   padding: 0;
 }
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu'), url(https://cortizg.github.io/cv/fonts/ubuntu.woff) format('woff');
+}
+
+body {
+    font-family: Ubuntu, "times new roman", times, roman, serif;
+}
