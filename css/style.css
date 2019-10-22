@@ -1,0 +1,10 @@
+.menu a{
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.menu ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
