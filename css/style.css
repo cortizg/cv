@@ -22,8 +22,6 @@ body {
 }
 
 hr {
-  background-color: node;
-  height:0px;
   width: 5%;
   border-width:5px;
   border-style:dotted none none;
