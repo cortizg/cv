@@ -20,3 +20,12 @@ body {
     font-family: Ubuntu, "times new roman", times, roman, serif;
     background-color: #dff0ea;
 }
+
+hr {
+  background-color: node;
+  height:0px;
+  width: 5%;
+  border-width:5px;
+  border-style:dotted none none;
+  border-color: lightblue;
+}
