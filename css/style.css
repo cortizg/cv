@@ -27,3 +27,7 @@ hr {
   border-style:dotted none none;
   border-color: lightblue;
 }
+
+h1, h3 {
+  color: #8186d5;
+}
